@@ -1,0 +1,5 @@
+{
+    "environment": "runtime",
+    "managementApiUrl": "https://apim-nyaj-dev2.management.azure-api.net",
+    "backendUrl": "https://apim-nyaj-dev2.developer.azure-api.net"
+}
